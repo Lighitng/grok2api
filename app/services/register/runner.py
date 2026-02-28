@@ -25,7 +25,7 @@ from app.services.register.services import (
 
 
 SITE_URL = "https://accounts.x.ai"
-DEFAULT_IMPERSONATE = "chrome120"
+DEFAULT_IMPERSONATE = "chrome133a"
 
 CHROME_PROFILES = [
     {"impersonate": "chrome110", "version": "110.0.0.0", "brand": "chrome"},
